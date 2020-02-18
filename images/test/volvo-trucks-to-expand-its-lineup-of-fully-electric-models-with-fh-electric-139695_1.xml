@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>volvo-trucks-to-expand-its-lineup-of-fully-electric-models-with-fh-electric-139695_1.jpg</filename>
+	<path>/data/ML/images/volvo-trucks-to-expand-its-lineup-of-fully-electric-models-with-fh-electric-139695_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1860</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>261</ymin>
+			<xmax>1094</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

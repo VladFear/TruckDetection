@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>TTFeb20-UsedTruckSpec-1-630x419.jpg</filename>
+	<path>/data/ML/images/TTFeb20-UsedTruckSpec-1-630x419.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>63</ymin>
+			<xmax>545</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
